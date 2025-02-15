@@ -9,8 +9,8 @@ I'm Liza and I'm frontend developer
 
 ### Languages and tools
 <p align="left">
-    <img align='left' alt='html5' width='40px' height='40' src='https://github.com/LizKa2091/LizKa2091/raw/main/Html.svg' />
-    <img align='left' alt='css' width='40px' height='40' src='https://github.com/LizKa2091/LizKa2091/raw/main/Css.svg' />
+    <img align='left' alt='html5' width='40px' height='40' src='https://github.com/LizKa2091/LizKa2091/raw/main/Html5.svg' />
+    <img align='left' alt='css' width='40px' height='40' src='https://github.com/LizKa2091/LizKa2091/raw/main/Css3.svg' />
     <img align='left' alt='sass' width='40px' height='40' src='https://github.com/LizKa2091/LizKa2091/raw/main/Sass.svg' />
     <img align='left' alt='javascript' width='40px' height='40' src='https://github.com/LizKa2091/LizKa2091/raw/main/Javascript.svg' />
     <img align='left' alt='typescript' width='40px' height='40' src='https://github.com/LizKa2091/LizKa2091/raw/main/Typescript.svg' />
