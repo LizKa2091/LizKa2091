@@ -26,7 +26,9 @@ I have worked on several interesting projects that you can find in my repository
 - [Online Store](https://github.com/LizKa2091/online-store): An interactive website developed using HTML, CSS, and JavaScript. It showcases my skills
 <br />
 
+[![lizka's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lizka2091)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LizKa2091&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Interests:
 In my free time I enjoy:
 - Exploring new technologies and programming languages
