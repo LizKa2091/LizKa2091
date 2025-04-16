@@ -10,14 +10,20 @@ I'm Liza and I'm frontend developer passionate about building interactive applic
 
 ## Languages and tools
 <p align="left">
-    <img align='left' alt='html5' width='40px' height='40' src='https://github.com/LizKa2091/LizKa2091/raw/main/Html5.svg' title='HTML'/>
-    <img align='left' alt='css' width='40px' height='40' src='https://github.com/LizKa2091/LizKa2091/raw/main/Css3.svg' title='CSS'/>
-    <img align='left' alt='scss/sass' width='40px' height='40' src='https://github.com/LizKa2091/LizKa2091/raw/main/Sass.svg' title='SCSS/SASS'/>
-    <img align='left' alt='javascript' width='40px' height='40' src='https://github.com/LizKa2091/LizKa2091/raw/main/Javascript.svg' title='JavaScript'/>
-    <img align='left' alt='typescript' width='40px' height='40' src='https://github.com/LizKa2091/LizKa2091/raw/main/Typescript.svg' title='TypeScript'/>
-    <img align='left' alt='react' width='40px' height='40' src='https://github.com/LizKa2091/LizKa2091/raw/main/React.svg' title='React'/>
+    <img align='left' alt='react' width='40px' height='40px' src='https://github.com/LizKa2091/LizKa2091/raw/main/React.svg' title='React'/>
+    <img align='left' alt='typescript' width='40px' height='40px' src='https://github.com/LizKa2091/LizKa2091/raw/main/Typescript.svg' title='TypeScript'/>
+    <img align='left' alt='javascript' width='40px' height='40px' src='https://github.com/LizKa2091/LizKa2091/raw/main/Javascript.svg' title='JavaScript'/>
+    <img align='left' alt='scss/sass' width='40px' height='40px' src='https://github.com/LizKa2091/LizKa2091/raw/main/Sass.svg' title='SCSS/SASS'/>
+    <img align='left' alt='html5' width='40px' height='40px' src='https://github.com/LizKa2091/LizKa2091/raw/main/Html5.svg' title='HTML'/>
+    <img align='left' alt='css' width='40px' height='40px' src='https://github.com/LizKa2091/LizKa2091/raw/main/Css3.svg' title='CSS'/>
 </p>
 <br />
+<br />
+<br />
+<p align="left">
+    <img align='left' alt='React Query' width='100px' height='40px' src='https://github.com/LizKa2091/LizKa2091/raw/main/react-query-seeklogo.svg' title='React Query'/>
+    <img align='left' alt='React Hook Form' width='40px' height='40px' src='https://github.com/LizKa2091/LizKa2091/raw/main/react-hook-form-logo-grey.svg' title='React Hook Form'/>
+</p>
 <br />
 
 ## Projects
