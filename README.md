@@ -23,6 +23,7 @@ I'm Liza and I'm frontend developer passionate about building interactive applic
 <p align="left">
     <img align='left' alt='React Query' width='100px' height='40px' src='https://github.com/LizKa2091/LizKa2091/raw/main/react-query-seeklogo.svg' title='React Query'/>
     <img align='left' alt='React Hook Form' width='40px' height='40px' src='https://github.com/LizKa2091/LizKa2091/raw/main/react-hook-form-logo-grey.svg' title='React Hook Form'/>
+    <img align='left' alt='Ant Design' width='40px' height='40px' src='https://github.com/LizKa2091/LizKa2091/raw/main/ant-design-icon-2048x2046-dl3neb73.png' title='Ant Design'/>
 </p>
 <br />
 
