@@ -29,8 +29,9 @@ I'm Liza and I'm frontend developer passionate about building interactive applic
 
 ## Projects
 I have worked on several interesting projects that you can find in my repository. Here are a few of them:
-- [Cinema Psyho](https://github.com/LizKa2091/cinema-psyho): Cinema platform that suggests films based on your mood with watchlist and dislike features. Built with React, TypeScript, React Query, React Hook Form and Ant Design
-- [Food Store](https://github.com/LizKa2091/food-store): Online food marketplace designed to make shopping experience enjoyable and efficient. Built with React, SCSS and TypeScript
+- [Dev Tracker](https://github.com/LizKa2091/dev-tracker): Service for tracking progress in development — manage tasks, health and xp system, shop and GitHub activity integration
+- [Budget Tracker](https://github.com/LizKa2091/budget-tracker): App designed for finance tracking — manage expenses and incomes, categories, stats and data presentation
+- [Cinema Psyho](https://github.com/LizKa2091/cinema-psyho): Cinema platform that suggests films based on your mood with watchlist and dislike features
 <br />
 
 [![lizka's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lizka2091)](https://github.com/anuraghazra/github-readme-stats)
