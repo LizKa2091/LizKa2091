@@ -3,27 +3,30 @@
 I'm Liza and I'm frontend developer passionate about building interactive applications and learning new technologies. I strive for continuous learning and improvement of my skills to build high-quality and user-friendly apps
 
 ## Connect with me
-[<img align='left' alt='telegram' width='40px' src='https://github.com/LizKa2091/LizKa2091/raw/main/Telegram.svg' title='@lizka2091'/>](https://t.me/lizka2091)
+[<img align='left' alt='telegram' width='40px' src='https://github.com/LizKa2091/LizKa2091/raw/main/icons/Telegram.svg' title='@lizka2091'/>](https://t.me/lizka2091)
 
 <br />
 <br />
 
 ## Languages and tools
 <p align="left">
-    <img align='left' alt='react' width='40px' height='40px' src='https://github.com/LizKa2091/LizKa2091/raw/main/React.svg' title='React'/>
-    <img align='left' alt='typescript' width='40px' height='40px' src='https://github.com/LizKa2091/LizKa2091/raw/main/Typescript.svg' title='TypeScript'/>
-    <img align='left' alt='javascript' width='40px' height='40px' src='https://github.com/LizKa2091/LizKa2091/raw/main/Javascript.svg' title='JavaScript'/>
-    <img align='left' alt='scss/sass' width='40px' height='40px' src='https://github.com/LizKa2091/LizKa2091/raw/main/Sass.svg' title='SCSS/SASS'/>
-    <img align='left' alt='html5' width='40px' height='40px' src='https://github.com/LizKa2091/LizKa2091/raw/main/Html5.svg' title='HTML'/>
-    <img align='left' alt='css' width='40px' height='40px' src='https://github.com/LizKa2091/LizKa2091/raw/main/Css3.svg' title='CSS'/>
+    <img align='left' alt='react' width='40px' height='40px' src='https://github.com/LizKa2091/LizKa2091/raw/main/icons/React.svg' title='React'/>
+    <img align='left' alt='typescript' width='40px' height='40px' src='https://github.com/LizKa2091/LizKa2091/raw/main/icons/Typescript.svg' title='TypeScript'/>
+    <img align='left' alt='javascript' width='40px' height='40px' src='https://github.com/LizKa2091/LizKa2091/raw/main/icons/Javascript.svg' title='JavaScript'/>
+    <img align='left' alt='scss/sass' width='40px' height='40px' src='https://github.com/LizKa2091/LizKa2091/raw/main/icons/Sass.svg' title='SCSS/SASS'/>
+    <img align='left' alt='html5' width='40px' height='40px' src='https://github.com/LizKa2091/LizKa2091/raw/main/icons/Html5.svg' title='HTML'/>
+    <img align='left' alt='css' width='40px' height='40px' src='https://github.com/LizKa2091/LizKa2091/raw/main/icons/Css3.svg' title='CSS'/>
 </p>
 <br />
 <br />
 <br />
 <p align="left">
-    <img align='left' alt='React Query' width='100px' height='40px' src='https://github.com/LizKa2091/LizKa2091/raw/main/react-query-seeklogo.svg' title='React Query'/>
-    <img align='left' alt='React Hook Form' width='40px' height='40px' src='https://github.com/LizKa2091/LizKa2091/raw/main/react-hook-form-logo-grey.svg' title='React Hook Form'/>
-    <img align='left' alt='Ant Design' width='40px' height='40px' src='https://github.com/LizKa2091/LizKa2091/raw/main/ant-design-icon-2048x2046-dl3neb73.png' title='Ant Design'/>
+    <img align='left' alt='React Toolkit' width='100px' height='40px' src='https://raw.githubusercontent.com/LizKa2091/LizKa2091/main/icons/ReduxToolkit.svg' title='Redux Toolkit'/>
+    <img align='left' alt='Zustand' width='100px' height='40px' src='https://raw.githubusercontent.com/LizKa2091/LizKa2091/main/icons/Zustand.svg' title='React Query'/>
+    <img align='left' alt='MobX' width='100px' height='40px' src='https://raw.githubusercontent.com/LizKa2091/LizKa2091/main/icons/MobX.svg' title='MobX'/>
+    <img align='left' alt='React Query' width='100px' height='40px' src='https://github.com/LizKa2091/LizKa2091/raw/main/icons/react-query-seeklogo.svg' title='React Query'/>
+    <img align='left' alt='React Hook Form' width='40px' height='40px' src='https://github.com/LizKa2091/LizKa2091/raw/main/icons/react-hook-form-logo-grey.svg' title='React Hook Form'/>
+    <img align='left' alt='Ant Design' width='40px' height='40px' src='https://github.com/LizKa2091/LizKa2091/raw/main/icons/ant-design-icon-2048x2046-dl3neb73.png' title='Ant Design'/>
 </p>
 <br />
 
