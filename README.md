@@ -9,6 +9,8 @@ I'm Liza and I'm frontend developer passionate about building interactive applic
 <br />
 
 ## Languages and tools
+
+### **Frontend Fundamentals**
 <p align="left">
     <img align='left' alt='react' width='40px' height='40px' src='https://github.com/LizKa2091/LizKa2091/raw/main/icons/React.svg' title='React'/>
     <img align='left' alt='typescript' width='40px' height='40px' src='https://github.com/LizKa2091/LizKa2091/raw/main/icons/Typescript.svg' title='TypeScript'/>
@@ -17,17 +19,28 @@ I'm Liza and I'm frontend developer passionate about building interactive applic
     <img align='left' alt='html5' width='40px' height='40px' src='https://github.com/LizKa2091/LizKa2091/raw/main/icons/Html5.svg' title='HTML'/>
     <img align='left' alt='css' width='40px' height='40px' src='https://github.com/LizKa2091/LizKa2091/raw/main/icons/Css3.svg' title='CSS'/>
 </p>
+
 <br />
 <br />
-<br />
+
+### **State Management and Data Fetching**
 <p align="left">
-    <img align='left' alt='React Toolkit' width='100px' height='40px' src='https://raw.githubusercontent.com/LizKa2091/LizKa2091/main/icons/ReduxToolkit.svg' title='Redux Toolkit'/>
-    <img align='left' alt='Zustand' width='100px' height='40px' src='https://raw.githubusercontent.com/LizKa2091/LizKa2091/main/icons/Zustand.svg' title='React Query'/>
-    <img align='left' alt='MobX' width='100px' height='40px' src='https://raw.githubusercontent.com/LizKa2091/LizKa2091/main/icons/MobX.svg' title='MobX'/>
+    <img align='left' alt='React Toolkit' width='40px' height='40px' src='https://raw.githubusercontent.com/LizKa2091/LizKa2091/main/icons/ReduxToolkit.svg' title='Redux Toolkit'/>
+    <img align='left' alt='Zustand' width='40px' height='40px' src='https://raw.githubusercontent.com/LizKa2091/LizKa2091/main/icons/Zustand.svg' title='React Query'/>
+    <img align='left' alt='MobX' width='40px' height='40px' src='https://raw.githubusercontent.com/LizKa2091/LizKa2091/main/icons/MobX.svg' title='MobX'/>
     <img align='left' alt='React Query' width='100px' height='40px' src='https://github.com/LizKa2091/LizKa2091/raw/main/icons/react-query-seeklogo.svg' title='React Query'/>
+</p>
+
+<br />
+<br />
+
+### **UI Libraries & Forms**
+<p align="left">
     <img align='left' alt='React Hook Form' width='40px' height='40px' src='https://github.com/LizKa2091/LizKa2091/raw/main/icons/react-hook-form-logo-grey.svg' title='React Hook Form'/>
     <img align='left' alt='Ant Design' width='40px' height='40px' src='https://github.com/LizKa2091/LizKa2091/raw/main/icons/ant-design-icon-2048x2046-dl3neb73.png' title='Ant Design'/>
 </p>
+
+<br />
 <br />
 
 ## Projects
@@ -40,11 +53,5 @@ I have worked on several interesting projects that you can find in my repository
 [![lizka's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lizka2091)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LizKa2091&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Interests:
-In my free time I enjoy:
-- Exploring new technologies and programming languages
-- Putting together puzzles
-- Watching horror films
-- Going for a walk
 <br />
-I am always open to new ideas and collaborations, so feel free to reach out
+I am always open to new ideas and collaborations, so feel free to reach out 😉
