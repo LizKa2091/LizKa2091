@@ -26,7 +26,7 @@ I'm Liza and I'm frontend developer passionate about building interactive applic
 ### **State Management and Data Fetching**
 <p align="left">
     <img align='left' alt='React Toolkit' width='40px' height='40px' src='https://raw.githubusercontent.com/LizKa2091/LizKa2091/main/icons/ReduxToolkit.svg' title='Redux Toolkit'/>
-    <img align='left' alt='Zustand' width='40px' height='40px' src='https://raw.githubusercontent.com/LizKa2091/LizKa2091/main/icons/Zustand.svg' title='React Query'/>
+    <img align='left' alt='Zustand' width='40px' height='40px' src='https://raw.githubusercontent.com/LizKa2091/LizKa2091/main/icons/Zustand.svg' title='Zustand'/>
     <img align='left' alt='MobX' width='40px' height='40px' src='https://raw.githubusercontent.com/LizKa2091/LizKa2091/main/icons/MobX.svg' title='MobX'/>
     <img align='left' alt='React Query' width='100px' height='40px' src='https://github.com/LizKa2091/LizKa2091/raw/main/icons/react-query-seeklogo.svg' title='React Query'/>
 </p>
