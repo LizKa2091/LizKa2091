@@ -55,7 +55,7 @@ I'm Liza and I'm frontend developer passionate about building interactive applic
 ### **Bundlers & Build Tools**
 <p align="left">
     <img align='left' alt='Vite' width='40px' height='40px' src='https://github.com/LizKa2091/LizKa2091/raw/main/icons/vite.png' title='Vite'/>
-    <img align='left' alt='Webpack' width='40px' height='40px' src='https://github.com/LizKa2091/LizKa2091/raw/main/icons/webpack.' title='Webpack'/>
+    <img align='left' alt='Webpack' width='40px' height='40px' src='https://github.com/LizKa2091/LizKa2091/raw/main/icons/webpack.png' title='Webpack'/>
 </p>
 
 <br />
