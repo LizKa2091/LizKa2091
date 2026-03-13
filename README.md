@@ -34,10 +34,28 @@ I'm Liza and I'm frontend developer passionate about building interactive applic
 <br />
 <br />
 
-### **UI Libraries & Forms**
+### **UI Libraries & Forms & Data Validation**
 <p align="left">
     <img align='left' alt='React Hook Form' width='40px' height='40px' src='https://github.com/LizKa2091/LizKa2091/raw/main/icons/react-hook-form-logo-grey.svg' title='React Hook Form'/>
     <img align='left' alt='Ant Design' width='40px' height='40px' src='https://github.com/LizKa2091/LizKa2091/raw/main/icons/ant-design-icon-2048x2046-dl3neb73.png' title='Ant Design'/>
+    <img align='left' alt='Zod' width='40px' height='40px' src='https://github.com/LizKa2091/LizKa2091/raw/main/icons/zod.png' title='Zod'/>
+</p>
+
+<br />
+<br />
+
+### **Real‑time Communication**
+<p align="left">
+    <img align='left' alt='WebSocket' width='40px' height='40px' src='https://github.com/LizKa2091/LizKa2091/raw/main/icons/websocket.png' title='WebSocket'/>
+</p>
+
+<br />
+<br />
+
+### **Bundlers & Build Tools**
+<p align="left">
+    <img align='left' alt='Vite' width='40px' height='40px' src='https://github.com/LizKa2091/LizKa2091/raw/main/icons/vite.png' title='Vite'/>
+    <img align='left' alt='Webpack' width='40px' height='40px' src='https://github.com/LizKa2091/LizKa2091/raw/main/icons/webpack.' title='Webpack'/>
 </p>
 
 <br />
@@ -45,12 +63,14 @@ I'm Liza and I'm frontend developer passionate about building interactive applic
 
 ## Projects
 I have worked on several interesting projects that you can find in my repository. Here are a few of them:
+- [Sea Battle](https://github.com/LizKa2091/sea-battle): Sea battle game app against computer
+- [Cat Tinder](https://github.com/LizKa2091/cat-tinder): Service to help cats find their love
+- [Schedule Planner](https://github.com/LizKa2091/schedule-planner): App for planning schedule
 - [Dev Tracker](https://github.com/LizKa2091/dev-tracker): Service for tracking progress in development — manage tasks, health and xp system, shop and GitHub activity integration
 - [Budget Tracker](https://github.com/LizKa2091/budget-tracker): App designed for finance tracking — manage expenses and incomes, categories, stats and data presentation
 - [Cinema Psyho](https://github.com/LizKa2091/cinema-psyho): Cinema platform that suggests films based on your mood with watchlist and dislike features
 <br />
 
-[![lizka's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lizka2091)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LizKa2091&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
